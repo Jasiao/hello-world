@@ -1,3 +1,19 @@
 first artical!
 second artical！
 third artical！
+1.首先当然是写一个txt了
+2.git init//首先是初始化
+3.在txt里面写入代码或者是资料
+4.git add . //添加
+5.git commit -m“要的名字”//要的名字就是版本号
+6.git log//可以看版本号
+7.git reset --hard +版本号前几个数字或者字母或者是全部数字或者字母//回到前面的版本号或者是回到未来
+8.先在github注册一个库
+9.在git bash打入git remote add origin +一系列的网站//我感觉这个就是注册
+10.git push -u origin master//打入你的GitHub的账号，可以将东西上传上去
+11.git clone +一系列网站//将远程的库克隆到当地
+12.git push和git pull//一个是推，上传，相当于远程更新；一个是拉，相当于本地更新
+13.git branch //查看分支
+14.git branch（your name）//注册分支
+15.git checkout （your name）//切换分支
+16.git merge//合并分支
